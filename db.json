@@ -1,6 +1,36 @@
 {
   "movies": [
+    {
+      "id": "1",
+      "title": "Pokiri",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "2",
+      "title": "Businessman",
+      "releaseDate": "2004"
+    },
+    {
+      "id": "3",
+      "title": "Liger",
+      "releaseDate": "1983"
+    },
+    {
+      "id": "4",
+      "title": "GST",
+      "releaseDate": "1975"
+    }
   ],
   "favourites": [
+    {
+      "id": "1",
+      "title": "Pokiri",
+      "releaseDate": "1975"
+    },
+    {
+      "id": "2",
+      "title": "Businessman",
+      "releaseDate": "2004"
+    }
   ]
 }
